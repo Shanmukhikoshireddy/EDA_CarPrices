@@ -3,16 +3,16 @@
 This repository contains a comprehensive Exploratory Data Analysis (EDA) report on a car prices dataset. The objective is to identify key insights and relationships between car attributes and their selling prices using visual and statistical methods.
 
 ## 📁 Contents
-- 'Plots.ipyb' -  Jupyter notebook containing code with visualizations
-- 'carprices' - Dataset downloded from kaggle 
+- `Plots.ipyb` -  Jupyter notebook containing code with visualizations
+- `carprices` - Dataset downloded from kaggle 
 - `EDA_CarPrices_Report.pdf` – PDF report with visuals and point-wise analysis.
   
 ## 🧰 Tools & Libraries Used
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+- `Python`
+- `Pandas`
+- `Matplotlib`
+- `Seaborn`
 
 ## 📌 Key Insights
 
